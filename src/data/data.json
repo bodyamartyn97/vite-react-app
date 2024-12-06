@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Вступ до JSX",
+        "body": "Він має назву JSX, і це розширення синтаксису для JavaScript. Ми рекомендуємо використовувати його в React, щоб описати, як повинен виглядати інтерфейс користувача. JSX може нагадувати мову шаблонів, але з усіма перевагами JavaScript.",
+        "href": "https://uk.legacy.reactjs.org/docs/introducing-jsx.html"
+    },
+    {
+        "title": "Компоненти і пропси",
+        "body": "Концептуально компоненти є подібними до функцій JavaScript. Вони приймають довільні вхідні дані (так звані “пропси”) і повертають React-елементи, що описують те, що повинно з’явитися на екрані.",
+        "href": "https://uk.legacy.reactjs.org/docs/components-and-props.html"
+    },
+    {
+        "title": "React без JSX",
+        "body": "Кожен JSX-елемент являє собою “синтаксичний цукор” для виклику React.createElement(component, props, ...children). Отже, все що можна зробити за допомогою JSX, може також бути виконаним на чистому JavaScript.",
+        "href": "https://uk.legacy.reactjs.org/docs/react-without-jsx.html"
+    }
+]
